@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megan!</h1>
 <h3 align="center">A Computer Software Development student</h3>
 
-- 🌱 I’m currently learning **Object-Oriented Programming with Python, Web Development with HTML5, PHP & MySQL, and getting the hang of Git flow!**
+- 🌱 I’m currently learning **Object-Oriented Programming with Python, Data Structures, Web Development with HTML5, PHP & MySQL, and getting the hang of Git flow!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
