@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Software Development student</h3>
 
 🌱 I’m currently learning:
-- <b>Java:</b> multi-threading, IO, custom exception classes, database programming, command-line arguments, and Swing
+- <b>Java:</b> multi-threading, IO, custom exception classes, database programming, command-line arguments, network programming and Swing
 - <b>C:</b> memory allocation, pointers, functions/procedures, and arrays
 - Front-End developing using ASP.NET MVC (HTML5, C#, CSS)
 - Getting the hang of git bash/version control
