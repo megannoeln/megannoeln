@@ -2,8 +2,8 @@
 <h3 align="center">A Computer Software Development student</h3>
 
 🌱 I’m currently learning:
-- <b>Java:</b> multi-threading, IO, custom exception classes, database programming, command-line arguments, network programming, reflection, JUnit testing, and Swing 
-- <b>C:</b> memory allocation, pointers, functions/procedures, and arrays
+- <b>Java:</b> multi-threading, IO, custom exception classes, database programming, command-line arguments, network programming, reflection, JUnit testing, Logging, XML
+- <b>C:</b> dynamic memory allocation, pointers, static/dynamic arrays and structures
 - Front-End developing using ASP.NET MVC (HTML5, C#, CSS)
 - Getting the hang of git bash/version control
 
